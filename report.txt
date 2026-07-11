@@ -1,0 +1,12 @@
+Info: Output directory '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled' created.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-F_Cu.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-B_Cu.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-F_Paste.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-B_Paste.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-F_Silkscreen.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-B_Silkscreen.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-F_Mask.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-B_Mask.gbr'.
+Plotted to '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/jacyqiu/Documents/3d printing/Stardance macropad/Untitled/Untitled-job.gbrjob'.
+Info: Done.
